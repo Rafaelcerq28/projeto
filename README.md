@@ -17,7 +17,7 @@ Repositorio p/ aula de quinta
 	#Inicializa o repositorio
 		git init
 
-	#Rastraia os arquivos
+	#Rastreia os arquivos
 		git status
 
 	#adiciona os arquivos com mudanças para serem 'commitados'
